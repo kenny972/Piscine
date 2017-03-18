@@ -55,7 +55,7 @@ h1
 	color: blue;
 }
 
-h1, h3 
+h1, h2, h3 
 {
 	font-size: 50px;
 	font-family: 'Baloo Bhaina', cursive;
@@ -98,12 +98,18 @@ nav a
 
 
 
+/*Section*/
+
+
+
 .deuxièmeaside
 {
 	background-color:white;
 	width: 6%;
 	display: inline-block;
 }
+
+/*La vente*/
 
 
 div
@@ -115,6 +121,38 @@ div
 	bottom: 30%;
 	display: inline-block;
 }
+
+.piscineex 
+{
+	width: 90%;
+	height: 450%;
+}
+
+.piscineint
+{
+	width: 90%;
+	height: 450px;
+}
+
+.spa
+{
+	width: 90%;
+	height: 450px;
+}
+
+.sauna
+{
+	width: 90%;
+	height: 450px;
+}
+
+.sauna2
+{
+	width: 90%;
+	height: 450px;
+}
+
+/*La vente*/
 
 
 
