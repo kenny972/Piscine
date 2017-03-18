@@ -1,0 +1,123 @@
+body
+{
+	background-color: #AFEEEE;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*star of header*/
+header
+{
+	background-image: url("eaupiscine");
+}
+
+
+
+header aside
+{
+	
+	width: 20%;
+
+
+	
+}
+
+
+
+
+header aside, header .un
+{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+
+
+.un
+{
+	
+	width:79%;
+	/*bottom: 30px;*/
+	text-align: center;
+}
+
+h1
+{
+	color: blue;
+}
+
+h1, h3 
+{
+	font-size: 50px;
+	font-family: 'Baloo Bhaina', cursive;
+
+}
+
+
+h3
+{
+	text-align: center;
+}
+
+
+
+h3, h4
+{
+	font-size: 20px;
+}
+
+
+
+nav
+{
+	background-color: red;
+}
+
+nav ul li
+{
+	display: inline-block; 
+
+}
+
+nav a
+{
+	text-align: left;
+	padding:6em;
+}
+
+/*head of header*/
+
+
+
+.deuxièmeaside
+{
+	background-color:white;
+	width: 6%;
+	display: inline-block;
+}
+
+
+div
+{
+	background-color: green;
+	width:92%;
+	/*height: 50em;*/
+	float: right;
+	bottom: 30%;
+	display: inline-block;
+}
+
+
+
+
+
+
