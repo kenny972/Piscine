@@ -1,10 +1,12 @@
+
 body
 {
-	background-color: #AFEEEE;
-
+	/*background-color: #D3E3E8;*/
+	background-color: #F2F0CE;
+	/*#D3E4E8;*/
+	
+	
 }
-
-
 
 
 
@@ -17,7 +19,9 @@ body
 /*star of header*/
 header
 {
-	background-image: url("eaupiscine");
+
+	background-color: #B2CCD4;
+	
 }
 
 
@@ -52,8 +56,22 @@ header aside, header .un
 
 h1
 {
+	border: 9px blue groove;
 	color: blue;
+	background-image: url("eau.jpeg");
+	width: 50%;
+	margin-left: 15%;
+
 }
+
+
+
+h2
+{
+	color: #9C7C24;
+}
+
+
 
 h1, h2, h3 
 {
@@ -61,6 +79,8 @@ h1, h2, h3
 	font-family: 'Baloo Bhaina', cursive;
 
 }
+
+
 
 
 h3
@@ -75,11 +95,21 @@ h3, h4
 	font-size: 20px;
 }
 
+.soustitre
+{
+	color: red;
+	padding-right: 17%;
+	padding-bottom:auto;
+}
+
+
+
 
 
 nav
 {
-	background-color: red;
+	background-color: orange;
+	color: white;
 }
 
 nav ul li
@@ -100,6 +130,15 @@ nav a
 
 /*Section*/
 
+.intro
+{
+	padding: auto;
+	padding-left:285px;
+	width: 50%;
+	height: 20%
+
+
+	}
 
 
 .deuxièmeaside
@@ -111,10 +150,20 @@ nav a
 
 /*La vente*/
 
+.vente,.vente2, .vente3
+{
+	font-size: 2em; 
+}
+
+h2
+{
+	text-align: center;
+}
+
 
 div
 {
-	background-color: green;
+	
 	width:92%;
 	/*height: 50em;*/
 	float: right;
@@ -152,6 +201,11 @@ div
 	height: 450px;
 }
 
+em
+{
+	color: #F56938;
+}
+
 /*La vente*/
 
 
@@ -159,3 +213,7 @@ div
 
 
 
+footer
+{
+	 
+}
