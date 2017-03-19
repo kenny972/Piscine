@@ -2,7 +2,9 @@
 body
 {
 	/*background-color: #D3E3E8;*/
-	background-color: #DEE090;
+	background-color: #B55767;
+	#A8273C;
+	#DEE090;
 	/*#F2F0CE;*/
 	/*#D3E4E8;*/
 	
@@ -164,6 +166,14 @@ h2
 }
 
 
+/*.Piscines
+{
+	border: 9px #F0AABA groove; 
+}*/
+
+
+
+
 div
 {
 	
@@ -227,7 +237,7 @@ em
 footer 
 {
 	
-	border: 9px #DB571F groove;
+	/*border: 9px #DB571F groove;*/
 	
 
 
