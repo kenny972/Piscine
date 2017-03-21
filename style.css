@@ -1,16 +1,15 @@
+/*star of Communs rules*/
 
-body
+*
 {
-	/*background-color: #D3E3E8;*/
-	background-color: #966E75;
-	 #C5F0BD;
-	/*#B55767;
-	#A8273C;
-	#DEE090;*/
-	/*#F2F0CE;*/
-	/*#D3E4E8;*/
-	
-	
+	margin: 0;
+	padding: 0;
+}
+
+img
+{
+	height: 70%;
+	width: 70%;
 }
 
 
@@ -19,14 +18,27 @@ body
 
 
 
+/*end of communs rules*/
+
+body
+{
+	background-color: #F4F5E6;
+}
+
+
+
+
+
 
 
 /*star of header*/
+
+
 header
 {
 
 	background-color: #B2CCD4;
-	border: 9px #F0AABA groove;
+	
 	
 	
 }
@@ -69,13 +81,14 @@ h1
 	width: 50%;
 	margin-left: 15%;
 
+
 }
 
 
 
 h2
 {
-	color: white;
+	color: blue;
 }
 
 
@@ -104,12 +117,19 @@ h3, h4
 
 }
 
+
+
+
+
 .soustitre
 {
-	color: red;
+
+	font-style: 60px;
+	color: #D14115;
 	padding-right: 17%;
-	padding-bottom:auto;
-	text-decoration: underline;
+	margin: auto;
+	text-align: center;
+	font-family: 'Baloo Bhaina', cursive;
 }
 
 
@@ -153,7 +173,7 @@ nav a
 	}
 
 
-.deuxièmeaside
+.deuxiemeaside
 {
 	background-color:white;
 	width: 6%;
@@ -184,11 +204,10 @@ h2
 div
 {
 	
-	width:92%;
+	width:85%;
+	margin: auto;
 	/*height: 50em;*/
-	float: right;
-	bottom: 30%;
-	display: inline-block;
+	
 }
 
 
@@ -199,7 +218,7 @@ div
 .piscineex 
 {
 	width: 90%;
-	height: 450%;
+	height: 450px;
 }
 
 .piscineint
@@ -233,11 +252,7 @@ em
 }
 
 
-mark
 
-{
-background-color: purple;
-}
 
 /*End of DIV and Sales*/
 
@@ -248,12 +263,23 @@ background-color: purple;
 {
 	width: 50px;
 	height: 50px;
-
 }	
+
+/*.paiement
+{
+	width: 50px;
+	height: 80px;
+}*/
 
 footer
 {
+	/**/
+	/*background-color: #966E75;*/
+	background-color: silver;
+
+	margin-top: 90%;
 	font-weight: bold;
+
 }
 
 
@@ -323,3 +349,17 @@ td, th /* bordure sur les td ET les th */
 	width: 200px;
 }
 
+/***************************************************************************************************************************************
+*************************************************************************************************************************************
+*****************************************************L'entreprise********************************************************************
+*************************************************************************************************************************************/
+
+
+/*Star of the section*/
+.lentreprise
+{
+	
+	margin: auto;
+	width: 50%;
+	height: 50%;
+}
